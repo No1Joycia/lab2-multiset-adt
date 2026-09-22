@@ -30,6 +30,7 @@ public class BST {
 
     public boolean isEmpty() {
         return this.root==null;
+        // mock I'm working on this task
         //return false; // TODO implement me!
     }
 
